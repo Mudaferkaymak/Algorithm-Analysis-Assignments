@@ -5,10 +5,10 @@ This GitHub repository contains the assignments and projects completed under the
 
 Course Details
 
-Course Name: Algorithm Analysis
+Course Name: Algorithm Analysis\n
 Instructor: Prof. Dr. M. Elif Karslıgil
 
 Repository Contents
 
-Assignments: Folder containing solutions for assignments given throughout the course.
+Assignments: Folder containing solutions for assignments given throughout the course.\n
 Projects: Files and solutions related to the project phase of the course.
